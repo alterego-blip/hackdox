@@ -1,3 +1,6 @@
 [submodule "ezhil"]
 	path = ezhil
 	url = git@github.com:vividvilla/ezhil.git
+[submodule "themes/hugo-theme-anubis"]
+	path = themes/hugo-theme-anubis
+	url = git@github.com:Mitrichius/hugo-theme-anubis.git
